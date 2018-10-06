@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: meta-biz
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: deo
+Implementation-Vendor-Id: com.qmf.meta.root
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/meta-root/meta-biz
+Created-By: Maven Integration for Eclipse
+
